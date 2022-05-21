@@ -10,6 +10,6 @@ animasi hamburger yang dibuat dengan html, css dan javascript
 
 ### live demo 
 
-[tekan ljnk ini untuk mencoba program ini](https://candradwicahyo.github.io/hamburger-animation)
+[tekan link ini untuk mencoba program ini](https://candradwicahyo.github.io/hamburger-animation)
 
 > dibuat oleh **candra dwi cahyo**
